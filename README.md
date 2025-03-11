@@ -1,7 +1,6 @@
 ## 🚀 Product Engineer @decipad
 Building products that people love. Fullstack with a heart for design, UX and product strategy.
-
-Previously in startups, R&D, and agencies—now shaping products from 0→1. Obsessed with user experience, data-driven decisions, and shipping fast.
+Previously in startups, R&D, and agencies — now shaping products from 0→1.
 
 🔗 [nilsjacobsen.me](https://www.nilsjacobsen.me/)
 
