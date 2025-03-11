@@ -1,10 +1,14 @@
-## Design Engineer @decipad
+## 🚀 Product Engineer @decipad
+Building products that people love. Fullstack with a heart for design, UX and product strategy.
 
-I'm a design engineer with 5+ years of experience in startup, R&D and agency setup. 
+Previously in startups, R&D, and agencies—now shaping products from 0→1. Obsessed with user experience, data-driven decisions, and shipping fast.
 
-Visit my website -> nilsjacobsen.me
+🔗 [nilsjacobsen.me](https://www.nilsjacobsen.me/)
 
-#### Side projects:
-- https://getstage.app/
-- https://www.zirkular.dev/
-- https://ausstellung.hfg-gmuend.de/s-2121/projekte/melo-the-sound-experience-platform/
+#### 🛠️ Side projects:
+
+[getstage.app](https://getstage.app/) – turn your docs into interactive guides
+[zirkular.dev](https://www.zirkular.dev/) – visual coding for circular design
+[melo](https://ausstellung.hfg-gmuend.de/s-2121/projekte/melo-the-sound-experience-platform/) – sound experience platform
+
+🧑‍💻 I write, design, and code with one goal: building products that matter.
