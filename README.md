@@ -1,4 +1,4 @@
-## 🚀 Product Engineer @ legitcontrol.com
+## 🚀 Design Engineer at Slite & Super.work
 Building products that people love. Fullstack with a heart for design, UX and product strategy.
 5+ years of experience in startup, R&D and agency setup.
 
